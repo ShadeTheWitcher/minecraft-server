@@ -1,4 +1,27 @@
-data/
-*.jar
-*.log
+# Sistema Operativo
 .DS_Store
+Thumbs.db
+
+# Logs y Archivos Temporales
+*.log
+*.log.gz
+data/logs/
+data/crash-reports/
+data/cache/
+data/libraries/
+data/versions/
+data/version_history.json
+data/usercache.json
+
+# Binarios (Jars del servidor y plugins)
+*.jar
+
+# Mundos (Son muy pesados para Git, mejor hacer backups aparte)
+data/world/
+data/world_nether/
+data/world_the_end/
+
+# - server-icon.png
+# - server.properties
+# - whitelist.json, ops.json
+# - Carpetas de configuración dentro de data/plugins/
