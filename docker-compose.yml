@@ -10,6 +10,7 @@ services:
       - MAX_PLAYERS=20 
       - ONLINE_MODE=TRUE # Cambiar a FALSE si necesitas modo offline (no premium)
       - OPS=nombre_usuario1,nombre_usuario2 # Lista separada por comas de admins
+      - MOTD= Servidor de Minecraft byShade # Mensaje que sale en la lista de servidores
     ports:
       - "25565:25565"
     volumes:

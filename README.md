@@ -38,6 +38,15 @@ Puedes editar el archivo `docker-compose.yml` para cambiar la configuración:
 - **MEMORY**: Memoria RAM asignada (ej. `2G`, `4G`).
 - **ONLINE_MODE**: `TRUE` para solo usuarios Premium. `FALSE` para permitir usuarios no-premium.
 - **OPS**: Lista de usuarios administradores (ej. `OPS=Steve,Alex`). Se añaden automáticamente al iniciar.
+- **MOTD**: El mensaje que aparece debajo del nombre del servidor en la lista multijugador.
+
+### Icono del Servidor
+Para cambiar la imagen del servidor:
+1. Consigue una imagen `.png`.
+2. Redimensiónala para que sea **exactamente de 64x64 píxeles**.
+3. Ponle el nombre `server-icon.png`.
+4. Guárdala dentro de la carpeta `data/`.
+5. Reinicia el servidor.
 
 ## Datos
 
