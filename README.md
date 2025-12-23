@@ -66,7 +66,7 @@ Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes 
 
 ### Minijuegos
 - **[SkyWarsReloaded (Updated)](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-8-1-20-4.69436/)**: El plugin clásico de SkyWars, actualizado para versiones nuevas.
-- **[TNT Run Reloaded](https://www.spigotmc.org/resources/tntrun_reloaded.14357/)**: Minijuego automático de TNT Run con regeneración de arenas.
+- **[TNT Run Reloaded](https://www.spigotmc.org/resources/tntrun_reloaded-tntrun-for-1-13-1-21-11.53359/)**: Minijuego automático de TNT Run con regeneración de arenas.
 
 ## Detener el servidor
 
