@@ -42,6 +42,18 @@ Puedes editar el archivo `docker-compose.yml` para cambiar la configuración:
 
 Todos los datos del mundo, configuración y plugins se guardarán en la carpeta `./data` que se creará automáticamente.
 
+## Agregar Plugins
+
+No necesitas ningún programa especial. Como estamos usando **Paper** (definido en `TYPE=PAPER`), el servidor soportará plugins.
+
+1. Inicia el servidor al menos una vez para que se creen las carpetas.
+2. Ve a la carpeta `data/plugins` que se ha creado en este directorio.
+3. Arrastra ahí los archivos `.jar` de los plugins que quieras instalar.
+4. Reinicia el servidor:
+   ```bash
+   docker compose restart
+   ```
+
 ## Detener el servidor
 
 Para detener el servidor de forma segura:
