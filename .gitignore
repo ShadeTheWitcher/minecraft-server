@@ -1,0 +1,4 @@
+data/
+*.jar
+*.log
+.DS_Store

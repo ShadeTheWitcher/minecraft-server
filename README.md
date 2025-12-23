@@ -54,6 +54,19 @@ No necesitas ningún programa especial. Como estamos usando **Paper** (definido 
    docker compose restart
    ```
 
+## Plugins Recomendados
+
+Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes descargarlos y colocarlos en `data/plugins`:
+
+### Gestión de Mundos y Lobby
+- **[Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/)**: Para tener múltiples mundos (Lobby, SkyWars, etc.) en el mismo servidor.
+- **[Multiverse-Inventories](https://www.spigotmc.org/resources/multiverse-inventories.1963/)**: Separa inventarios entre mundos (para no llevar items del lobby a los juegos).
+- **[DeluxeHub](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49473/)**: Gestión profesional del Lobby (Scoreboard, selector de servidores, doble salto, etc).
+
+### Minijuegos
+- **[SkyWarsReloaded (Updated)](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-8-1-20-4.69436/)**: El plugin clásico de SkyWars, actualizado para versiones nuevas.
+- **[TNT Run Reloaded](https://www.spigotmc.org/resources/tntrun_reloaded.14357/)**: Minijuego automático de TNT Run con regeneración de arenas.
+
 ## Detener el servidor
 
 Para detener el servidor de forma segura:
