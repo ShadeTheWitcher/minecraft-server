@@ -37,6 +37,7 @@ Puedes editar el archivo `docker-compose.yml` para cambiar la configuración:
 - **TYPE**: Está configurado como `PAPER` para mejor rendimiento. Puedes cambiarlo a `VANILLA`, `FORGE`, etc.
 - **MEMORY**: Memoria RAM asignada (ej. `2G`, `4G`).
 - **ONLINE_MODE**: `TRUE` para solo usuarios Premium. `FALSE` para permitir usuarios no-premium.
+- **OPS**: Lista de usuarios administradores (ej. `OPS=Steve,Alex`). Se añaden automáticamente al iniciar.
 
 ## Datos
 
@@ -61,7 +62,7 @@ Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes 
 ### Gestión de Mundos y Lobby
 - **[Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/)**: Para tener múltiples mundos (Lobby, SkyWars, etc.) en el mismo servidor.
 - **[Multiverse-Inventories](https://www.spigotmc.org/resources/multiverse-inventories.1963/)**: Separa inventarios entre mundos (para no llevar items del lobby a los juegos).
-- **[DeluxeHub](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49473/)**: Gestión profesional del Lobby (Scoreboard, selector de servidores, doble salto, etc).
+- **[DeluxeHub](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/)**: Gestión profesional del Lobby (Scoreboard, selector de servidores, doble salto, etc).
 
 ### Minijuegos
 - **[SkyWarsReloaded (Updated)](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-8-1-20-4.69436/)**: El plugin clásico de SkyWars, actualizado para versiones nuevas.
