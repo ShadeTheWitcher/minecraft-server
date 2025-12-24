@@ -72,7 +72,7 @@ Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes 
 - **[Multiverse-Core](https://www.spigotmc.org/resources/multiverse-core.390/)**: Para tener múltiples mundos (Lobby, SkyWars, etc.) en el mismo servidor.
 - **[Multiverse-Inventories](https://www.spigotmc.org/resources/multiverse-inventories.1963/)**: Separa inventarios entre mundos (para no llevar items del lobby a los juegos).
 - **[DeluxeHub](https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/)**: Gestión profesional del Lobby (Scoreboard, selector de servidores, doble salto, etc).
-- **[WorldEdit](https://dev.bukkit.org/projects/worldedit)**: Herramienta esencial para pegar mapas (schematics) y editar el mundo rápidamente.
+- **[FastAsyncWorldEdit (FAWE)](https://www.spigotmc.org/resources/fastasyncworldedit.13932/)**: Versión optimizada de WorldEdit. **Esencial** para pegar mapas grandes sin que se congele el servidor.
 
 ### Minijuegos
 - **[SkyWarsReloaded (Updated)](https://www.spigotmc.org/resources/skywarsreloaded-updated-recoded-1-8-1-20-4.69436/)**: El plugin clásico de SkyWars, actualizado para versiones nuevas.
