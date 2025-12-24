@@ -80,6 +80,7 @@ Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes 
 
 ## Recursos y Mapas
 - **Lobby Recomendado (Gratis)**: [Red Lobby - Free Map](https://builtbybit.com/resources/red-lobby-free-map.50601/?ref=discover)
+- **[VoidGen (Fork)](https://modrinth.com/plugin/voidgen/version/2.3.4/)**: Necesario para crear mundos totalmente vacíos (útil para el Lobby o SkyWars).
 
 ### Plugins para Survival
 - **[EssentialsX](https://essentialsx.net/downloads.html)**: El "kit básico" (Warps, Home, TPA, Spawn). Imperdible.
@@ -88,6 +89,7 @@ Estos plugins no se incluyen en el repositorio (buenas prácticas), pero puedes 
 - **[Vault](https://www.spigotmc.org/resources/vault.34315/)**: Necesario para que funcionen la economía y los rangos.
 - **[ViaVersion](https://www.spigotmc.org/resources/viaversion.19254/)**: Permite que entren jugadores con versiones antiguas de Minecraft (aunque tu server sea 1.21).
 - **[Minepacks](https://www.spigotmc.org/resources/minepacks-backpack-plugin-recoded.19286/)**: Añade mochilas que se pueden abrir con comando o ítems, y se pueden configurar para ser crafteables.
+
 
 ## Detener el servidor
 
